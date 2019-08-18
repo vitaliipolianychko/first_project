@@ -54,7 +54,7 @@
 .table-root td {
   height: 40px;
   width: 40px;
-  min-width: 40px;
+  min-width: 50px;
   background-color: #48aae6;
   padding: 0px;
 }
